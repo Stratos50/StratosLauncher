@@ -1,5 +1,5 @@
 1.0
-Menu-Status:Online
+Menu-Status:Offline
 GTA-Status:Online
 
 <- LAUNCHER FILE ->
